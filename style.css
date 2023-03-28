@@ -1,0 +1,22 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    color: chartreuse;
+    justify-content: center;
+    font-size: 100px;
+}
+
+h3 {
+    color:mediumvioletred;
+    font-size: 70px;
+}
+
+
+h5{color: red;
+    font-size: 40px;}
+
+h6{color: red;
+    font-size: 40px;}    
+
+h7{color: red;
+    font-size: 40px;}   
